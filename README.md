@@ -1,11 +1,11 @@
 # 💫 About Me:
 <img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'>
 <br>
-<br>👋 Hi, I’m <b>Mardon</b>
+<br>👋 Hi, I’m <b>ASLBEK</b>
 <br>👀 I’m interested in <b>IT</b>
-<br>🌱 I’m currently learning <b>Backend</b>
-<br>💞️ I’m looking to collaborate on <b>Codeacademiya</b>
-<br>📫 How to reach me <a href="https://t.me/S_M_M_1207"><b>Githup</b></a> or <a href="https://github.com/Mardon1207"><b>Telegram</b></a>
+<br>🌱 I’m currently learning <b>Fullstack</b>
+<br>💞️ I’m looking to collaborate on <b>IT Park</b>
+<br>📫 How to reach me <a href="https://t.me/AslbekAkhmedov"><b>Telegram</b></a> or <a href="https://github.com/Aslbek0730"><b>GitHub</b></a>
 <br><br>
 <p align="center">
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -16,11 +16,11 @@
 <br>
 
 ## 🌐 Socials:
-<a href="https://instagram.com/mardon_s_m"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/Mardon1207"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://t.me/S_M_M_1207"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/Mardon03/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="https://www.sololearn.com/profile/29215655"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+<a href="https://instagram.com/aslbek_0730"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/Aslbek0730"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://t.me/AslbekAkhmedov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/Aslbek0730/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+
 <!-- <a href="https://gitlab.com/quvvatullayev/"><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a></a> -->
 
 
