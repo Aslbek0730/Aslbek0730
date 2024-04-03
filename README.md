@@ -26,7 +26,7 @@
 
 # 🐍 snike 
 
-<a href=#><img src="snike.svg"></a>
+<a href=#><img src="snake.svg"></a>
 
 ## Language and TOOLS
 
