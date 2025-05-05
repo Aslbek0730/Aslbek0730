@@ -1,5 +1,4 @@
 💫 About Me:
-<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'>
 <br>
 <br>👋 Hi, I’m <b>ASLBEK</b>
 <br>👀 I’m interested in <b>IT</b>
