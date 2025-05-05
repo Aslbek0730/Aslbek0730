@@ -7,12 +7,7 @@
 <br>💞️ I’m looking to collaborate on <b>IT Park</b>
 <br>📫 How to reach me <a href="https://t.me/AslbekAkhmedov"><b>Telegram</b></a> or <a href="https://github.com/Aslbek0730"><b>GitHub</b></a>
 <br><br>
-<p align="center">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-<br>
-<p align="center"><img align="center" src="/image.jpg" width="300", heigth="300" ></p>
-<br>
+
 <br>
 
 ## 🌐 Socials:
