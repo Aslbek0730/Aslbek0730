@@ -8,7 +8,6 @@
 <br><br>
 <table>
   <tr><th colspan="2"><h3>📅 Commit calendar</h3></th></tr>
-All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
 </td></tr>
   <tr>
     <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
@@ -28,6 +27,6 @@ All product and company names are trademarks™ or registered® trademarks of th
     </td>
   </tr>
 </table>
-<!--/header-->
+
 
 
