@@ -7,10 +7,7 @@
 <br>📫 How to reach me <a href="https://t.me/AslbekAkhmedov"><b>Telegram</b></a> or <a href="https://github.com/Aslbek0730"><b>GitHub</b></a>
 <br><br>
 <table>
-  <tr><th colspan="2"><h3>📅 Isometric commit calendar</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.</p>
-</td></tr>
-  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
+  <tr><th colspan="2"><h3>📅 Commit calendar</h3></th></tr>
 All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
 </td></tr>
   <tr>
