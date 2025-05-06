@@ -1,6 +1,6 @@
 💫 About Me:
 <br>
-<br>👋 Hi, My name is 👇 <br><b>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Axmedov+Aslbek)](https://git.io/typing-svg)</b>
+<br>👋 Hi, I'm <br><b>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Axmedov+Aslbek)](https://git.io/typing-svg)</b>
 <br>👀 I’m interested in <b>IT</b>
 <br>🌱 I’m currently learning <b>Fullstack</b>
 <br>💞️ I’m looking to collaborate on <b>IT Park</b>
