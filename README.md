@@ -4,7 +4,7 @@
 <br>👀 I’m interested in <b>IT</b>
 <br>🌱 I’m currently learning <b>Fullstack</b>
 <br>💞️ I’m looking to collaborate on <b>IT Park</b>
-<br>📫 How to reach me <a href="https://t.me/AslbekAkhmedov"><b>Telegram</b></a> or <a href="https://github.com/Aslbek0730"><b>GitHub</b></a>
+<br>📫 How to reach me <a href="https://t.me/AslbekAkhmedov"><b>Telegram</b></a> or <a href="https:aslbekaxmedov.netlify.app"><b>Portfolio</b></a>
 <br><br>
 <table>
   <tr><th colspan="2"><h3>📅 Commit calendar</h3></th></tr>
